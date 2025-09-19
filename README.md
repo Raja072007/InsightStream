@@ -1,3 +1,5 @@
+insight stream demo link: https://drive.google.com/file/d/1YaTGKPnBaQw-vZOJjxu5f4YTMC-eJjTr/view?usp=drivesdk
+insight stream documentation: https://drive.google.com/file/d/1dFQUJ81CbacZkQk1C4MczZzULJVwm8xq/view?usp=drivesdk
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
